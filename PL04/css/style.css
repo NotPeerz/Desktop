@@ -16,14 +16,20 @@ nav{
 }
 
 nav img {
-    height: 50px;
+    height: 50px;       
 }
-main p{
-
+h1{/*font-family: "Alfa Slab One", serif;*/
+    text-transform: capitalize;
+    text-shadow: 1px 1px 10px red;
+    color: white;
+}
+main p{text-align: justify;
+letter-spacing: 0px;
+line-height: 1;
 }
 /* comentário em css */
 #texto1 {
-    background-color: #d9c8aa; 
+    background-color: red; 
     color: white;
 }
 
