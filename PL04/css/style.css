@@ -48,6 +48,11 @@ line-height: 1;
     background-color: blue; 
     color: white;
 }
+:root {
+    --corPrimaria: #E51B15;
+    --corSecundaria: #fff;
+    --corTerciaria: #000;
+}
 body {
     font-family: 'Open Sans', sans-serif;
 }
